@@ -1,5 +1,6 @@
 test1 test Abo vonc es!
-BBBBBBBBBBBBBBBBB    from br2
+BBBBBBBBBBBBBBBBB    from br2  ==== from new user git/brunch1
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
 New br_1 adding
 Added for br2
