@@ -1,2 +1,7 @@
 test1 test Abo vonc es!
 BBBBBBBBBBBBBBBBB
+<<<<<<< HEAD
+=======
+
+New br_1 adding
+>>>>>>> br_1
