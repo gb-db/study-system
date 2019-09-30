@@ -1,0 +1,92 @@
+[33mcommit 846dc9f227e12f348ebb7c31f39f7189f6f8b940[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: f7b7b17 a69e173
+Author: gb-db <barsamyang@gmail.com>
+Date:   Mon Sep 30 09:46:40 2019 -0400
+
+    kaskaceli commit
+
+[33mcommit f7b7b178491baa753abda68f5a1ece2aee459d87[m
+Author: gb-db <barsamyang@gmail.com>
+Date:   Sun Sep 29 23:11:40 2019 -0400
+
+    master commit 1
+
+[33mcommit a69e173a6c5dbb7598e2dc85c36b02ab8455a49c[m[33m ([m[1;32mbr2[m[33m)[m
+Author: gb-db <barsamyang@gmail.com>
+Date:   Sun Sep 29 23:09:45 2019 -0400
+
+    br2 commit 1
+
+[33mcommit 88f9459fc9f57c81aa067531c5594fdaebd06398[m
+Author: gb-db <barsamyang@gmail.com>
+Date:   Sun Sep 29 23:08:36 2019 -0400
+
+    br2 commit
+
+[33mcommit 2456ca660c7605a894b3af39764bb935d0d75c79[m
+Merge: 45802b4 ee284f2
+Author: gb-db <barsamyang@gmail.com>
+Date:   Sun Sep 29 22:59:00 2019 -0400
+
+    merge br_1
+
+[33mcommit ee284f2cd8bb14cb349921c0d0335cd88b138b53[m
+Author: gb-db <barsamyang@gmail.com>
+Date:   Sun Sep 29 22:15:08 2019 -0400
+
+    New commit br_1
+
+[33mcommit 45802b456bdc0b0a65a09379e554876f52ca5e91[m
+Merge: 6b4c1cb db71168
+Author: gb-db <barsamyang@gmail.com>
+Date:   Sun Sep 29 22:03:32 2019 -0400
+
+    After merge 1
+
+[33mcommit 6b4c1cb4090e81bb69b0964101a6a1cc54509844[m
+Author: gb-db <barsamyang@gmail.com>
+Date:   Sun Sep 29 21:37:57 2019 -0400
+
+    Commit from Master 1
+
+[33mcommit db711683e4fcf957ba4579439c132dc5fedfaf9b[m
+Author: gb-db <barsamyang@gmail.com>
+Date:   Sun Sep 29 20:42:53 2019 -0400
+
+    Commit for br_1 1
+
+[33mcommit bec2970ca087e48829f80ccedfd7db055ea4e25d[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: gb-db <barsamyang@gmail.com>
+Date:   Sun Sep 29 18:43:08 2019 -0400
+
+    Commit Word doc
+
+[33mcommit ddc65aeab51681a5d29cdc0ee60b10006c631e19[m
+Author: gb-db <barsamyang@gmail.com>
+Date:   Sun Sep 29 18:21:00 2019 -0400
+
+    Commit for favicon.ico
+
+[33mcommit 1ab1003b1c443159c22f0573b8abc2defebcf374[m
+Author: gb-db <barsamyang@gmail.com>
+Date:   Sun Sep 29 18:13:13 2019 -0400
+
+    Commit for TextTest2.txt
+
+[33mcommit c6c97f183e90bf4bf0fd05adddf5959dea3e9155[m
+Author: gb-db <barsamyang@gmail.com>
+Date:   Sat Sep 28 23:26:52 2019 -0400
+
+    added some text for Abo!
+
+[33mcommit b0b809ee6500c92f76c93e63fb3cb4e6de3ba1df[m
+Author: gb-db <barsamyang@gmail.com>
+Date:   Sat Sep 28 23:17:13 2019 -0400
+
+    first test1.txt commit
+
+[33mcommit d338c6190719eeedd8f56474ae8e509d9d7d8f42[m
+Author: gb-db <55926042+gb-db@users.noreply.github.com>
+Date:   Sat Sep 28 14:00:17 2019 -0400
+
+    Initial commit
